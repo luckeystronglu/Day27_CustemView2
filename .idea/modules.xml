@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day27_CustemView2.iml" filepath="$PROJECT_DIR$/Day27_CustemView2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1_slidbar/demo1_slidbar.iml" filepath="$PROJECT_DIR$/demo1_slidbar/demo1_slidbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2_swithbutton/demo2_swithbutton.iml" filepath="$PROJECT_DIR$/demo2_swithbutton/demo2_swithbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo3_tabview/demo3_tabview.iml" filepath="$PROJECT_DIR$/demo3_tabview/demo3_tabview.iml" />
+    </modules>
+  </component>
+</project>

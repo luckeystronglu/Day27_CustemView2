@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Demo1_SlidBar</string>
+    
+    <array name="listview">
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+        <item>数据1</item>
+    </array>
+</resources>
